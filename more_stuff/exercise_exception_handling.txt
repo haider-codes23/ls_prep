@@ -1,0 +1,4 @@
+In some cases js throws exception or raises an error, that halts the program if the program
+does not catch the exception. Exception handling is a process that deals with errors in a 
+managable and predictable manner. It uses try/catch statement to catch exceptions that the code
+in try block raises and lets the programmer deal with the problem in the way it makes sense.
